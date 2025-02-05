@@ -5,3 +5,5 @@ B=$2
 X=$3
 
 RESULT=$(((Y-B)/X))
+
+echo $RESULT
